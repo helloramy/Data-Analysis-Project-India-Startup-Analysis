@@ -15,8 +15,11 @@ By examining this data, we aim to gain insights into the funding landscape and d
 
 ## CONTENT
 BUSINESS UNDERSTANDING
+
 DATA UNDERSTANDING: Perform initial exploratory data analysis to understand the structure and characteristics of the dataset.
+
 DATA PREPARATION
+
        - Data Selection
 
        - Data Cleaning
@@ -25,7 +28,7 @@ DATA PREPARATION
 
        - Data Integration
 
-IN-DEPTH ANALYSIS
+IN-DEPTH ANALYSIS: Analyse data into detail using codes and visualizations.
 
 
 ## CONCLUSION AND RECOMMENDATIONS
